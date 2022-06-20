@@ -1,0 +1,15 @@
+singleton Bootstrap 1.0 Bootstrap.qml
+BaseRequest 1.0 BaseRequest.qml
+LoginRequest 1.0 LoginRequest.qml
+SignupRequest 1.0 SignupRequest.qml
+ProtectedRequest 1.0 ProtectedRequest.qml
+RegisterRequest 1.0 RegisterRequest.qml
+AddWalletRequest 1.0 AddWalletRequest.qml
+GetWalletsRequest 1.0 GetWalletsRequest.qml
+GetWalletRequest 1.0 GetWalletRequest.qml
+AddOrderRequest 1.0 AddOrderRequest.qml
+GetOrdersRequest 1.0 GetOrdersRequest.qml
+GetTransitionsRequest 1.0 GetTransitionsRequest.qml
+CancelOrderRequest 1.0 CancelOrderRequest.qml
+RenameWalletRequest 1.0 RenameWalletRequest.qml
+DeleteWalletRequest 1.0 DeleteWalletRequest.qml
